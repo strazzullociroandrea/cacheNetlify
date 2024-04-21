@@ -1,0 +1,10 @@
+{
+    "port": 11500,
+    "userAdmin": "ciro",
+    "passwordAdmin": "Ciroandrea03.",
+    "fromMail": "Cache remota <cacheremota@gmail.com>",
+    "subject": "Token di autorizzazione all'utilizzo della cache remota",
+    "body": "Buongiorno,\nIn questa mail ricevi il token per utilizzare la cache remota. Il tuo token è: \"%PASSWORD\"\nConservalo con cura.\n\n Di seguito il link diretto alla pagina di login\n https://serverstrazzullo.ddns.net/cache/",
+    "mailFrom": "cacheremota@gmail.com",
+    "mailSecret": "befw lyxb cyna xxtw"
+}

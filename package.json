@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "build": "netlify deploy --prod"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "netlify-cli": "^17.22.1",
+    "netlify-lambda": "^2.0.16",
+    "nodemailer": "^6.9.13",
+    "path": "^0.12.7",
+    "sequelize": "^6.37.3",
+    "serverless-http": "^3.2.0",
+    "shortid": "^2.2.16",
+    "sqlite3": "^5.1.7"
+  }
+}

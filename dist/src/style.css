@@ -1,0 +1,17 @@
+.btn-custom {
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    font-size: 1rem;
+    color: #007bff;
+    cursor: pointer;
+}
+.btn-custom:hover {
+    text-decoration: underline;
+}
+button:focus {
+    outline: none;
+}
+.btn-login {
+    width: 50%;
+}
